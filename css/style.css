@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to top, #0a2345, #0b1d35, #0b1626, #070e18, #010204);
+
+}
+
+button.navbar-toggler i {
+    color: #2a5da3;
+}
+
+.banner-content {
+
+    padding: 100px 0px;
+}
+
+.banner-content h1 {
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.banner-content p {
+    color: #255597;
+}
+
+.banner-content h1 span {
+    color: #2a5da3;
+}
+
+.banner-content .btn-custom {
+    color: #fff;
+    border: none;
+    border: 2px solid #1640a3;
+    border-radius: 50px;
+    padding: 5px 20px;
+}
+
+.banner-content .btn-custom:hover {
+    border: 2px solid #fff;
+    color: #fff;
+
+}
+
+.play {
+    background-image: url(../image/Vector%20Smart%20Object%20copy.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.img-w img {
+    width: 90%;
+
+}
+
+.headphone {
+    background-image: url(../image/Headphones.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px;
+}
+
+.headphone h1 {
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.headphone h1 span {
+    color: #2a5da3;
+}
+
+.headphone p {
+    color: #255597;
+}
+
+.headphone .btn-custom {
+    color: #fff;
+    border: none;
+    border: 2px solid #1640a3;
+    border-radius: 50px;
+    padding: 5px 20px;
+}
+
+.headphone .btn-custom:hover {
+    border: 2px solid #fff;
+    color: #fff;
+
+}
+
+.feature-content {
+    background-image: url(../image/phone%20new.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 100px 0;
+    background-size: 450px;
+}
+
+.feature h1 {
+    color: #ffffff;
+}
+
+.feature h1 span {
+    color: #2a5da3;
+
+}
+
+.feature-content h5 {
+    color: #ffffff;
+}
+
+.feature-content p {
+    color: #66778e;
+}
+
+.feature-content i {
+    color: #ff3334;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.power {
+    background-image: url(../image/Graphic.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: contain;
+    padding: 150px;
+    margin: 50px 0;
+
+}
+
+.power h5 {
+    color: #ffffff;
+}
+
+.power p {
+    color: #66778e;
+}
+
+.power i {
+    color: #ff3334;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
